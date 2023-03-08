@@ -1,6 +1,6 @@
 ## Olá, me chamo Thamires Andrade! 
 ### Bem vindo ao meu perfil GitHub 👋
-- 🔭 Sou DEV PHP na Vortigo Digital, utilizando o Laravel e CakePHP e atuo também em alguns projetos pessoais em PHP com CodeIgniter 4 e Laravel.
+- 🔭 Sou DEV WEB PHP, utilizando o Laravel, CakePHP, CodeIgniter, Symfony.
 - 🌱 Atualmente estou aprendendo Node.JS e React.JS
 - 👀 Estou interessada em aprender Flutter e mais sobre Desenvolvimento Mobile
 - 📫 Você pode entrar em contato comigo: thamires.sistemas@gmail.com
